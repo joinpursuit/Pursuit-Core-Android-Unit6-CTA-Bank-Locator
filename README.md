@@ -5,6 +5,7 @@
 * [Comprehensive Technical Assessment MVP Checklist Requirements](#comprehensive-technical-assessment-mvp-checklist-requirements)
 * [Github / Project Setup](#github--project-setup)
 * [Android Instructional Staff Github Handles](#android-instructional-staff-github-handles)
+* [Screenshots](#screenshots)
 
 ## Project Specifications
 
