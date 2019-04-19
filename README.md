@@ -80,7 +80,7 @@ MVP for this app is considered reached when the fellow...
 - [ ] can display the lat/lon data passed to the Fragment as a pin marker, labeled with the City Name, and Country Code Abbreviation
 - [ ] can display the pin within the center of the screen, pre-zoomed within the radius of the country's visible borders
 - [ ] can return back to the previous Fragment using the back button
-- [ ] can account for orientation changes within the app using either SavedInstanceState, or multiple layouts
+- [ ] can account for orientation changes within the app using `SavedInstanceState`
 - [ ] can add two JUnit tests to their project
 
 ## Github / Project Setup
