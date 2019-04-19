@@ -76,7 +76,7 @@ MVP for this app is considered reached when the fellow...
 - [ ] can make each itemview respond to click events
 - [ ] can send lat/long data for each city clicked, back to the Activity from the Fragment using interface listener callback  methods
 - [ ] can send that lat/lon data from the Activity to a new Fragment using a Static Factory Instance method
-- [ ] can implement a MapFragment, using the Google Maps API ([get API Key here](https://console.cloud.google.com/home/dashboard))
+- [ ] can implement a MapFragment (or MapView within a Fragment), using the Google Maps API ([get API Key here](https://console.cloud.google.com/home/dashboard))
 - [ ] can display the lat/lon data passed to the Fragment as a pin marker, labeled with the City Name, and Country Code Abbreviation
 - [ ] can display the pin within the center of the screen, pre-zoomed within the radius of the country's visible borders
 - [ ] can return back to the previous Fragment using the back button
